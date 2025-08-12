@@ -16,14 +16,14 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Halo</h1>
+      <h1>Yahoooo</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
       </div>
       <p className="read-the-docs">
-        Klik di logo Vite dan React
+        Klik di logo Vite dan React untuk lebih banyak
       </p>
     </>
   )
